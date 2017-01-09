@@ -2,4 +2,8 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@import "header"
+@import "header";
+
+html, body{
+	height: 100%;
+}

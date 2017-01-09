@@ -5,8 +5,12 @@
     <title>WEAD</title>
     <link rel="stylesheet" href="{{ "/assets/stylesheets/bootstrap.min.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/assets/stylesheets/main.css" | prepend: site.baseurl }}">
+		<link rel="stylesheet" href="{{ "/assets/stylesheets/responsive.css" | prepend: site.baseurl }}">
 </head>
 <body>
+	{% include header.html %}
   {{ content }}
 </body>
+<script src="{{ "/assets/javascripts/main.js" | prepend: site.baseurl }}"></script>
+<script src="https://use.fontawesome.com/d3a9a36e18.js"></script>
 </html>
