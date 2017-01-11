@@ -2,8 +2,16 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@import "header";
-
 html, body{
 	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #eeeeee;
 }
+
+ul{
+	margin: 0;
+}
+
+@import "header";
