@@ -1,5 +1,8 @@
----
-layout: default
----
-
-{{ content }}
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+<body>
+    {% include header_about.html %}
+</body>
+<script src="{{ "/assets/javascripts/main.js" | prepend: site.baseurl }}"></script>
+</html>
