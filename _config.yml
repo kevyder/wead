@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: "A simple and clean jekyll theme."
 twitter_username: kevyder
 github_username:  kevyder
-baseurl: /wade
+baseurl: /wead
 
 markdown: kramdown
 sass:
