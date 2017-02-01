@@ -1,12 +1,12 @@
 # Wead.
 
-A simple and clean jekyll theme.
+A simple and clean jekyll theme. https://goo.gl/TkRqBY
 
 ### Home.
-![Home](http://i.imgur.com/CecMWcd.png)
+![Home](https://shrinktheweb.snapito.io/v2/webshot/spu-ea68c8-ogi2-3cwn3bmfojjlb56e?size=800x0&screen=1024x768&url=http%3A%2F%2Fkevinrodriguez.me%2Fwead)
 
 ### Posts.
-![Posts](http://i.imgur.com/fPp7fxn.png)
+![Posts](https://shrinktheweb.snapito.io/v2/webshot/spu-ea68c8-ogi2-3cwn3bmfojjlb56e?size=800x0&screen=1024x768&url=http%3A%2F%2Fkevinrodriguez.me%2Fwead%2Fjekyll%2Fupdate%2F2017%2F01%2F11%2Fwelcome-to-jekyll.1.html)
 
 ## Installation,
 
@@ -32,7 +32,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here. Describe your available layouts, includes, and/or sass.
+* Update information to `_config.yml`.
+
+* Change `_about.md` for blog intro.
 
 ## Contributing
 
