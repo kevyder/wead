@@ -1,10 +1,9 @@
-
 title: Wead.
 email: your-email@domain.com
 description: "A simple and clean jekyll theme."
 twitter_username: kevyder
 github_username:  kevyder
-#baseurl: /
+baseurl: /wead
 
 markdown: kramdown
 sass:
