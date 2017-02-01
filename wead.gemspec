@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "wead"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Kevin Rodr\xC3\xADguez"]
   spec.email         = ["kyrodriguez97@gmail.com"]
 
