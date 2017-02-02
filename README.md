@@ -1,3 +1,6 @@
+[![Gem Version](https://badge.fury.io/rb/wead.svg)](https://badge.fury.io/rb/wead)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/519daacbe38c4aa785f633bfe3d9bf5f)](https://www.codacy.com/app/Kevyder/wead?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kevyder/wead&amp;utm_campaign=Badge_Grade)
+
 # Wead.
 
 A simple and clean jekyll theme. https://goo.gl/TkRqBY
