@@ -3,6 +3,9 @@
 
 # Wead.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/519daacbe38c4aa785f633bfe3d9bf5f)](https://www.codacy.com/app/Kevyder/wead?utm_source=github.com&utm_medium=referral&utm_content=kevyder/wead&utm_campaign=badger)
+
+
 A simple and clean jekyll theme. https://goo.gl/TkRqBY
 
 ### Home.
