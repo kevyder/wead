@@ -3,6 +3,9 @@ email: your-email@domain.com
 description: "A simple and clean jekyll theme."
 twitter_username: kevyder
 github_username:  kevyder
+paginate: 5
+paginate_path: "/wead/page:num/"
+gems: [jekyll-paginate]
 baseurl: /wead
 
 markdown: kramdown

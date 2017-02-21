@@ -1,6 +1,6 @@
 <div class="posts">
     <div class="container">
-        {% for post in site.posts %}
+        {% for post in paginator.posts %}
             <div class="row">
                 <div class="post-container">
                     <p class="post-date"> {{ post.date | date: "%b %-d, %Y" }} </p>
@@ -9,5 +9,23 @@
                 </div>
             </div>
         {% endfor %}
+    </div>
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+    <div class="container">
+        <div class="row">
+        {% if paginator.previous_page %}
+            <div class="prev">
+                <a href="{{ paginator.previous_page_path }}" class="previous-button">Previous</a>
+            </div>
+        {% endif %}
+        {% if paginator.next_page %}
+            <div class="next">
+                <a href="{{ paginator.next_page_path }}" class="next-button">Next</a>
+            </div>
+        {% endif %}
+    </div>
     </div>
 </div>

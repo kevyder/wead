@@ -39,6 +39,16 @@ Or install it yourself as:
 
 * Change `_about.md` for blog intro.
 
+## Pagination
+
+Add the next lines in your `_config.yml` 
+
+```yaml
+paginate: 5
+paginate_path: "/wead/page:num/"
+gems: [jekyll-paginate]
+```
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/kevyder/wead.
