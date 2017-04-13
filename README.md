@@ -5,8 +5,8 @@
 
 A simple and clean jekyll theme. https://goo.gl/TkRqBY
 
-### Prewiew.
-![Imgur](http://i.imgur.com/He83MuJ.png)
+### Preview.
+![Imgur](http://i.imgur.com/5brZmdv.png)
 
 
 ## Installation,
