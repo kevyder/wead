@@ -5,11 +5,9 @@
 
 A simple and clean jekyll theme. https://goo.gl/TkRqBY
 
-### Home.
-![Home](https://shrinktheweb.snapito.io/v2/webshot/spu-ea68c8-ogi2-3cwn3bmfojjlb56e?size=800x0&screen=1024x768&url=http%3A%2F%2Fkevinrodriguez.me%2Fwead)
+### Prewiew.
+![Imgur](http://i.imgur.com/He83MuJ.png)
 
-### Posts.
-![Posts](https://shrinktheweb.snapito.io/v2/webshot/spu-ea68c8-ogi2-3cwn3bmfojjlb56e?size=800x0&screen=1024x768&url=http%3A%2F%2Fkevinrodriguez.me%2Fwead%2Fjekyll%2Fupdate%2F2017%2F01%2F11%2Fwelcome-to-jekyll.1.html)
 
 ## Installation,
 
