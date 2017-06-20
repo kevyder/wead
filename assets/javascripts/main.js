@@ -1,8 +1,8 @@
 function responsiveNav() {
-    var nav = document.getElementById("nav-list");
-    if (nav.className === "nav-list") {
-        nav.className += " responsive";
-    } else {
-        nav.className = "nav-list";
-    }
+	var e = document.getElementById("nav");
+	if(!e.style.display || e.style.display == 'none'){
+		e.style.display = 'block';
+	} else {
+		e.style.display = 'none';
+	}
 }

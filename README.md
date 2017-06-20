@@ -3,7 +3,9 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/519daacbe38c4aa785f633bfe3d9bf5f)](https://www.codacy.com/app/Kevyder/wead?utm_source=github.com&utm_medium=referral&utm_content=kevyder/wead&utm_campaign=badger)
 
 
-A simple and clean jekyll theme. https://goo.gl/TkRqBY
+A simple and clean jekyll theme.
+Demo: https://kevyder.github.io/wead/
+Rubygems: https://rubygems.org/gems/wead
 
 ### Preview.
 ![Imgur](http://i.imgur.com/5brZmdv.png)
@@ -39,7 +41,7 @@ Or install it yourself as:
 
 ## Pagination
 
-Add the next lines in your `_config.yml` 
+Add the next lines in your `_config.yml`
 
 ```yaml
 paginate: 5
@@ -62,4 +64,3 @@ When your theme is released, only the files in `_layouts`, `_includes`, and `_sa
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-

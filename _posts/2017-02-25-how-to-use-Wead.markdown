@@ -3,13 +3,13 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/519daacbe38c4aa785f633bfe3d9bf5f)](https://www.codacy.com/app/Kevyder/wead?utm_source=github.com&utm_medium=referral&utm_content=kevyder/wead&utm_campaign=badger)
 
 
-A simple and clean jekyll theme. https://goo.gl/TkRqBY
+A simple and clean jekyll theme.
+Demo: https://kevyder.github.io/wead/
+Rubygems: https://rubygems.org/gems/wead
 
-### Home.
-![Home](https://shrinktheweb.snapito.io/v2/webshot/spu-ea68c8-ogi2-3cwn3bmfojjlb56e?size=800x0&screen=1024x768&url=http%3A%2F%2Fkevinrodriguez.me%2Fwead)
+### Preview.
+![Imgur](http://i.imgur.com/5brZmdv.png)
 
-### Posts.
-![Posts](https://shrinktheweb.snapito.io/v2/webshot/spu-ea68c8-ogi2-3cwn3bmfojjlb56e?size=800x0&screen=1024x768&url=http%3A%2F%2Fkevinrodriguez.me%2Fwead%2Fjekyll%2Fupdate%2F2017%2F01%2F11%2Fwelcome-to-jekyll.1.html)
 
 ## Installation,
 
@@ -41,7 +41,7 @@ Or install it yourself as:
 
 ## Pagination
 
-Add the next lines in your `_config.yml` 
+Add the next lines in your `_config.yml`
 
 ```yaml
 paginate: 5

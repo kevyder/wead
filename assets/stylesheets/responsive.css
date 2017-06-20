@@ -1,0 +1,33 @@
+/*MEDIA QUERY*/
+@media only screen and (max-width : 640px) {
+
+	nav.nav{
+		padding: 5%;
+	}
+	nav ul, nav:active ul {
+		display: none;
+		position: fixed;
+		background: #c5c5c5;
+		left: 0;
+		top: 0;
+		width: 70%;
+		height: 100%;
+	}
+
+	#menu-icon{
+		display: inline-block !important;
+		padding: 15px auto !important;
+		float: right;
+	}
+
+	nav li.info {
+		text-align: center;
+		width: 100%;
+		padding: 15px 0;
+		margin: 0;
+	}
+
+	nav li.brand {
+		display: block;
+	}
+}
