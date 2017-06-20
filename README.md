@@ -4,7 +4,9 @@
 
 
 A simple and clean jekyll theme.
+
 Demo: https://kevyder.github.io/wead/
+
 Rubygems: https://rubygems.org/gems/wead
 
 ### Preview.
