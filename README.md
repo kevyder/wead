@@ -13,7 +13,7 @@ Rubygems: https://rubygems.org/gems/wead
 ![Imgur](http://i.imgur.com/5brZmdv.png)
 
 
-## Installation,
+## Installation
 
 Add this line to your Jekyll site's Gemfile:
 
@@ -47,8 +47,8 @@ Add the next lines in your `_config.yml`
 
 ```yaml
 paginate: 5
-paginate_path: "/wead/page:num/"
-gems: [jekyll-paginate]
+paginate_path: "/page:num/"
+plugins: [jekyll-paginate]
 ```
 
 ## Contributing
