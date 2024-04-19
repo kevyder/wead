@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="post-container">
                     <p class="post-date"> {{ post.date | date: "%b %-d, %Y" }} </p>
-                    <a href="{{ post.url | prepend: site.baseurl }}" class="post-title"><h3 class="title"> {{ post.title }}</h3></a>
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="post-title"><h2 class="title"> {{ post.title }}</h2></a>
                     <a class="extract" href="{{ post.url | prepend: site.baseurl }}"><p>{{ post.content | strip_html | truncatewords: 30 }}</p></a>
                 </div>
             </div>
